@@ -19,7 +19,7 @@
         <guava.version>[24.1.1,)</guava.version>
         <pmd.version>3.6</pmd.version>
         <jacoco.version>0.7.6.201602180812</jacoco.version>
-        <joda-time.version>2.7</joda-time.version>
+        <joda-time.version>2.10.6</joda-time.version>
         <joda-convert.version>1.8.1</joda-convert.version>
         <docker.useConfigFile>false</docker.useConfigFile>
     </properties>
