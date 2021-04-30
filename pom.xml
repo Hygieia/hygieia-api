@@ -14,7 +14,7 @@
         <application.version.number>4.0.0-SNAPSHOT</application.version.number>
         <mongo>3.9.1</mongo>
         <mongodb.version>3.9.1</mongodb.version>
-        <spring.version>5.1.4.RELEASE</spring.version>
+        <spring.version>5.1.18.RELEASE</spring.version>
         <jackson.version>2.9.8</jackson.version>
         <guava.version>[24.1.1,)</guava.version>
         <pmd.version>3.6</pmd.version>
